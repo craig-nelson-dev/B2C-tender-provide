@@ -1,0 +1,8 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.rich_description a {
+  color: #3182ce;
+  text-decoration: underline;
+}
